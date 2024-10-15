@@ -20,7 +20,7 @@ import UserWishlistContext from "./Context/UserWishlistContext";
 
 const router = createHashRouter([
   {
-    path: "",
+    path: "/E-commerce",
     element: <Layout />,
     children: [
       {
