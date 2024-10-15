@@ -5,8 +5,8 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   base: '/E-commerce/',
   plugins: [react()],
-  server:{
-    // porgit t:3333,
-    host:true
-  }
+  // server:{
+  //   // porgit t:3333,
+  //   host:true
+  // }
 })
